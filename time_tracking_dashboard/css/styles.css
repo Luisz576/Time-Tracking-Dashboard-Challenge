@@ -1,0 +1,86 @@
+/* CLEAR */
+body{
+    margin: 0;
+    background: #0D1422;
+    width: 100vw;
+    max-width: 100vw;
+    height: 100vh;
+    max-height: 100vh;
+}
+ul{
+    list-style: none;
+    padding: 0;
+}
+/* FLEX */
+.flex-1{
+    flex: 1;
+}
+.flex-4{
+    flex: 4;
+}
+/* DASHBOARD */
+.dashboard{
+    display: flex;
+    justify-content: center;
+    color: #d5d9e9;
+    font-family: 'Nunito', sans-serif;
+}
+.dashboard-content{
+    width: 70vw;
+    background-color: tomato;
+    display: flex;
+}
+.dashboard-div{
+    display: flex;
+}
+.dashboard-div-content{
+    background-color: #1E204C;
+}
+.profile-main{
+    height: 60%;
+    background-color: #5846E9;
+    padding: 20px;
+}
+.profile-main-image{
+    margin-bottom: 20px;
+}
+.profile-main-image img{
+    width: 40%;
+    border-radius: 50%;
+}
+.profile-main-content{
+    margin-bottom: 40px;
+}
+.profile-main-content h1, .profile-main-content p{
+    margin: 0;
+}
+.profile-main-content p{
+    font-size: 0.8rem;
+}
+.profile-main-content h1{
+    font-size: 1.8rem;
+}
+.profile-options{
+    margin-left: 20px;
+}
+.profile-options ul li{
+    font-size: 0.8rem;
+    margin-bottom: 8px;
+    color: #47497F;
+    font-weight: normal;
+}
+.profile-options ul li.selected{
+    color: #d5d9e9;
+    font-weight: bold;
+}
+.dashboard-resume{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    margin-left: 20px;
+}
+.dashboard-div-content-effect{
+    height: 20%;
+    background-color: #47497F;
+}

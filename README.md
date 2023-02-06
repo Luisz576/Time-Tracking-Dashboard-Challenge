@@ -1,2 +1,5 @@
 # Time-Tracking-Dashboard-Challenge
-A challenge of Time Tracking Dashboard. You can see the challenge here: https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw
+This repository is a challenge of Time Tracking Dashboard that can be accessed by this link: https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw
+
+## Images
+Profile Image: https://www.w3schools.com/howto/img_avatar.png
